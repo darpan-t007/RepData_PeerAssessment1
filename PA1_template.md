@@ -1,11 +1,6 @@
 # Reproducible Research: 
 
-## Loading and preprocessing the data
-
-```r
-unzip(zipfile = "activity.zip")
-data <- read.csv("activity.csv")
-```
+## Loading and preprocessing the data in the terminal
 
 
 ## What is mean total number of steps taken per day?
